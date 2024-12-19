@@ -13,7 +13,7 @@ import {useNavigation} from '@react-navigation/native';
 
 const LoginScreen = () => {
   const navigation = useNavigation();
-  // Initial commit
+  // develop branch
   return (
     <View style={styles.container}>
       <Spacer height={hp(20)} />
